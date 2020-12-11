@@ -1,0 +1,10 @@
+{
+"user":[{"orders_id":5,"total_tax":"0.00","customers_id":11,
+"customers_name":"aa asd","customers_company":null,
+"customers_street_address":"aa","customers_suburb":"","customers_city":"Manama","customers_postcode":"12345","customers_state":"1","customers_country":"Bahrain","customers_telephone":"","email":"aa@gmail.com","customers_address_format_id":null,"delivery_name":"aa asd","delivery_company":null,"delivery_street_address":"aa","delivery_suburb":"","delivery_city":"Manama","delivery_postcode":"12345","delivery_state":"1","delivery_country":"Bahrain","delivery_address_format_id":null,"billing_name":"aa asd","billing_company":null,"billing_street_address":"aa","billing_suburb":"","billing_city":"Manama","billing_postcode":"12345","billing_state":"1","billing_country":"Bahrain","billing_address_format_id":0,"payment_method":"Cash on Delivery","cc_type":"","cc_owner":"","cc_number":"","cc_expires":"","last_modified":"2020-11-09 07:57:00","date_purchased":"2020-11-09 07:57:00","orders_date_finished":null,"currency":"BD","currency_value":null,"order_price":"2.85","shipping_cost":"0.60","shipping_method":"flateRate","shipping_duration":null,"order_information":"[]","is_seen":1,
+"coupon_code":"","coupon_amount":0,"exclude_product_ids":"",
+"product_categories":"","excluded_product_categories":"","free_shipping":0,
+"product_ids":"","ordered_source":1,"delivery_phone":"54654654654",
+"billing_phone":"54654654654","transaction_id":null,"created_at":null,
+"updated_at":null,"delivery_time":"","delivery_latitude":null,
+"delivery_longitude":null}]}
